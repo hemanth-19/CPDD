@@ -1,2 +1,4 @@
 # CPDD
 Research work on Cotton Plant leaf disease detection
+CPDD (Cotton Plant Disease Detection) is a machine learning-based system designed to detect and classify diseases in cotton plants using image processing and predictive modeling. The project combines traditional ML algorithms (Logistic Regression, SVM, KNN, Random Forest, etc.) and deep learning (ResNet) to identify early-stage cotton leaf diseases with high accuracy. The system involves image preprocessing, segmentation, feature extraction, and classification, providing farmers with a user-friendly platform to upload leaf images and instantly get disease predictions. With a dataset of over 1900 annotated images and evaluation metrics like precision, recall, and F1-score, CPDD supports timely intervention and sustainable crop management. The project aims to empower farmers and researchers with accessible tools to minimize crop loss and improve cotton yield.
+
